@@ -1,0 +1,15 @@
+{
+    "name": "Base64",
+    "description": "Base64 sifreleme ve çözme",
+    "version": "1.0.0",
+    "manifest_version":3,
+    
+    "action":{
+        "default_popup":"index.html"
+
+   }
+    
+
+  
+
+}
