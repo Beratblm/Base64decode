@@ -12,12 +12,3 @@ document.getElementById("tikla").addEventListener("click",function(){
         let ptext = document.getElementById("donustur").innerHTML =  sifrele;
 
     });
-
-  
-
- 
-  
-
-
-
-
